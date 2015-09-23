@@ -1,4 +1,4 @@
-puts "================ CALCULANDO NUMEROS ================"
+:puts "================ CALCULANDO NUMEROS ================"
 puts
 puts "Digite um numero"
 num1 = gets.chomp.to_i
